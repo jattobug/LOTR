@@ -1,0 +1,10 @@
+tasks/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+*.tiff
+*.tif
